@@ -1,0 +1,49 @@
+#name{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 30;
+ }
+
+ #login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 420px;
+    
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ .logo{
+    font-family: 'Lemon', serif;
+font-family: 'Rubik Maps', system-ui;
+font-size: 30px; 
+text-align: center;
+ }
+
+ #register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 380px;
+    
+    width: 550px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ .dash{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 520px;
+    margin-top: 6px;
+    width: 156px;
+ }
+
+ .mgb{
+    margin-bottom: 0px;
+ }
